@@ -14,7 +14,7 @@ Telefon, tablet lub emulator:
 2. Pobierz plik APK,
 3. Uruchom plik i zainstaluj aplikację,
 4. Uruchom aplikację,
-5. Zezwól aplikacji na dostęp do lokalizacji,
+5. Zezwól aplikacji na dostęp do lokalizacji.
 
 ## Instrukcja użytkowania
 W celu rozpoczęcia pomiaru kroków uruchom aplikację, zezwól na dostęp do lokalizacji urządzenia
